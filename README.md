@@ -40,7 +40,13 @@ python batch_inference.py \
     --model ./checkpoints/5-class # or 9-class
 ```
 
-## 📝 Data Citation
+## License
+
+Though the code in this repository is shared under an [MIT License](https://github.com/Imageomics/BeetleFlow/blob/main/LICENSE), the data (images) are licensed under [Creative Commons Attribution (CC BY) 4.0](https://creativecommons.org/licenses/by/4.0/). Appropriate citation for images is provided below.
+
+## Acknowledgments
+
+This work uses data from the [Beetles as Sentinel Taxa: Predicting drought conditions from NEON specimen imagery dataset](https://huggingface.co/datasets/imageomics/sentinel-beetles). If you make use of the data, please be sure to cite the original source:
 
 BibTeX:
 ```tex
