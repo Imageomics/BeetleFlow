@@ -1,5 +1,7 @@
 # Beetle Part Segmentation Dataset
 
+These images are sourced from the [Beetles as Sentinel Taxa: Predicting drought conditions from NEON specimen imagery dataset](https://huggingface.co/datasets/imageomics/sentinel-beetles) and are licensed under [Creative Commons Attribution (CC BY) 4.0](https://creativecommons.org/licenses/by/4.0/). If you use them in your research, please be sure to cite them appropriately (see [Acknowledgments](../README.md#acknowledgments)).
+
 ## Dataset Statistics
 
 ### 5-class
