@@ -46,6 +46,8 @@ Though the code in this repository is shared under an [MIT License](https://gith
 
 ## Acknowledgments
 
+This work was in part conceived at [Funcapalooza](https://github.com/Imageomics/FuncaPalooza-2025).
+
 This work uses data from the [Beetles as Sentinel Taxa: Predicting drought conditions from NEON specimen imagery dataset](https://huggingface.co/datasets/imageomics/sentinel-beetles). If you make use of the data, please be sure to cite the original source:
 
 BibTeX:
