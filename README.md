@@ -57,10 +57,10 @@ BibTeX:
     S M Rayeed and Fangxun Liu and David Carlyn and Connor Kilrain and Jiaman Wu and Chandra Earl and Hilmar Lapp 
     and Kayla I. Perry and Charles Stewart and Matthew J. Thompson and Elizabeth G. Campolongo and Wei-Lun Chao and
     Eric R. Sokol and Sydne Record},
-  title = {Beetles as Sentinel Taxa: Predicting drought conditions from {NEON} specimen imagery},
-  year = {2025},
+  title = {Beetles as Sentinel Taxa: Predicting drought conditions from {NEON} specimen imagery (Revision 5026be7)},
+  year = {2026},
   url = {https://huggingface.co/datasets/imageomics/sentinel-beetles},
-  doi = {<doi once generated>},
+  doi = {10.57967/hf/8716},
   publisher = {Hugging Face}
 }
 ```
