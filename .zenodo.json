@@ -1,0 +1,93 @@
+{
+  "creators": [
+    {
+      "name": "Liu, Fangxun",
+      "orcid": "0009-0008-8508-2776"
+    },
+    {
+      "name": "Rayeed, S M"
+    },
+    {
+      "name": "Stevens, Samuel"
+    },
+    {
+      "name": "East, Alyson"
+    },
+    {
+      "name": "Chiang, Cheng Hsuan"
+    },
+    {
+      "name": "Lee, Colin"
+    },
+    {
+      "name": "Yi, Daniel"
+    },
+    {
+      "name": "Yang, Junke"
+    },
+    {
+      "name": "Naik, Tejas"
+    },
+    {
+      "name": "Wang, Ziyi"
+    },
+    {
+      "name": "Kilrain, Connor"
+    },
+    {
+      "name": "Buckwalter, Elijah H."
+    },
+    {
+      "name": "Hou, Jiacheng"
+    },
+    {
+      "name": "Bueno, Saul Ibaven"
+    },
+    {
+      "name": "Wang, Shuheng"
+    },
+    {
+      "name": "Ma, Xinyue"
+    },
+    {
+      "name": "Liu, Yifan"
+    },
+    {
+      "name": "Tao, Zhiyuan"
+    },
+    {
+      "name": "Zhang, Ziheng"
+    },
+    {
+      "name": "Sokol, Eric"
+    },
+    {
+      "name": "Belitz, Michael"
+    },
+    {
+      "name": "Record, Sydne"
+    },
+    {
+      "name": "Stewart, Charles V."
+    },
+    {
+      "name": "Chao, Wei-Lun"
+    }
+  ],
+  "description": "Pipeline for processing large-scale tray images of pinned beetles: detect specimens, optionally sort and crop with metadata matching, and produce fine-grained morphological segmentation (5-class or 9-class). It uses an open-vocabulary detector (Grounding DINO), a vision-language model (LLaVA-NeXT) for verification, and fine-tuned Mask2Former for transformer-based part segmentation and downstream morphological analysis.",
+  "keywords": [
+    "deep learning",
+    "computer vision",
+    "image processing",
+    "object detection",
+    "image segmentation",
+    "entomology",
+    "imageomics"
+  ],
+  "license": {
+    "id": "MIT"
+  },
+  "publication_date": "2025-10-31",
+  "title": "BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing",
+  "version": "1.0.0"
+}
