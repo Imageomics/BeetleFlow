@@ -7,8 +7,9 @@
 - [ ] Provide checkpoint downloads
 - [ ] Add installation guide
 
-## 📊 Dataset
+## 📊 Dataset and Checkpoints
 Dataset for beetle part segmentation is available [here](data/) (both 5-class and 9-class).
+Mask2Former checkpoints for beetle part segmentation are available [here](https://huggingface.co/imageomics/BeetleFlow) (both 5-class and 9-class).
 
 ## 🧑‍💻 Usage
 
