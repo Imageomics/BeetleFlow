@@ -12,13 +12,17 @@ abstract: >-
 type: software
 repository-code: "https://github.com/Imageomics/BeetleFlow"
 license: MIT
+doi: 10.5281/zenodo.21251293
 
 date-released: 2026-07-07
 version: 1.0.0
 identifiers:
-  - description: "The GitHub release URL of tag 1.0.0."
+  - description: "The GitHub release URL of tag v1.0.0."
     type: url
-    value: "https://github.com/Imageomics/BeetleFlow/releases/tag/1.0.0"
+    value: "https://github.com/Imageomics/BeetleFlow/releases/tag/v1.0.0"
+  - description: "The GitHub URL of the commit tagged with v1.0.0."
+    type: url
+    value: "https://github.com/Imageomics/BeetleFlow/tree/71cac86da1c3e8c24ecc6b67e8c60eac5295014b"
 
 authors:
   - family-names: Liu
