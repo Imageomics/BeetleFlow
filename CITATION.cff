@@ -1,0 +1,145 @@
+cff-version: 1.2.0
+message: "If you find this software helpful in your research, please cite both the software and our paper."
+
+title: "BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing"
+abstract: >-
+  Pipeline for processing large-scale tray images of pinned beetles: detect specimens,
+  optionally sort and crop with metadata matching, and produce fine-grained morphological
+  segmentation (5-class or 9-class). It uses an open-vocabulary detector (Grounding DINO),
+  a vision-language model (LLaVA-NeXT) for verification, and fine-tuned Mask2Former
+  for transformer-based part segmentation and downstream morphological analysis.
+
+type: software
+repository-code: "https://github.com/Imageomics/BeetleFlow"
+license: MIT
+
+date-released: 2026-07-07
+version: 1.0.0
+identifiers:
+  - description: "The GitHub release URL of tag 1.0.0."
+    type: url
+    value: "https://github.com/Imageomics/BeetleFlow/releases/tag/1.0.0"
+
+authors:
+  - family-names: Liu
+    given-names: Fangxun
+    orcid: "https://orcid.org/0009-0008-8508-2776"
+  - family-names: Rayeed
+    given-names: "S M"
+  - family-names: Stevens
+    given-names: Samuel
+  - family-names: East
+    given-names: Alyson
+  - family-names: Chiang
+    given-names: "Cheng Hsuan"
+  - family-names: Lee
+    given-names: Colin
+  - family-names: Yi
+    given-names: Daniel
+  - family-names: Yang
+    given-names: Junke
+  - family-names: Naik
+    given-names: Tejas
+  - family-names: Wang
+    given-names: Ziyi
+  - family-names: Kilrain
+    given-names: Connor
+  - family-names: Buckwalter
+    given-names: "Elijah H."
+  - family-names: Hou
+    given-names: Jiacheng
+  - family-names: Bueno
+    given-names: "Saul Ibaven"
+  - family-names: Wang
+    given-names: Shuheng
+  - family-names: Ma
+    given-names: Xinyue
+  - family-names: Liu
+    given-names: Yifan
+  - family-names: Tao
+    given-names: Zhiyuan
+  - family-names: Zhang
+    given-names: Ziheng
+  - family-names: Sokol
+    given-names: Eric
+  - family-names: Belitz
+    given-names: Michael
+  - family-names: Record
+    given-names: Sydne
+  - family-names: Stewart
+    given-names: "Charles V."
+  - family-names: Chao
+    given-names: "Wei-Lun"
+
+keywords:
+  - deep learning
+  - computer vision
+  - image processing
+  - object detection
+  - image segmentation
+  - entomology
+  - imageomics
+
+preferred-citation:
+  type: conference-paper
+  title: "BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing"
+  authors:
+    - family-names: Liu
+      given-names: Fangxun
+      orcid: "https://orcid.org/0009-0008-8508-2776"
+    - family-names: Rayeed
+      given-names: "S M"
+    - family-names: Stevens
+      given-names: Samuel
+    - family-names: East
+      given-names: Alyson
+    - family-names: Chiang
+      given-names: "Cheng Hsuan"
+    - family-names: Lee
+      given-names: Colin
+    - family-names: Yi
+      given-names: Daniel
+    - family-names: Yang
+      given-names: Junke
+    - family-names: Naik
+      given-names: Tejas
+    - family-names: Wang
+      given-names: Ziyi
+    - family-names: Kilrain
+      given-names: Connor
+    - family-names: Buckwalter
+      given-names: "Elijah H."
+    - family-names: Hou
+      given-names: Jiacheng
+    - family-names: Bueno
+      given-names: "Saul Ibaven"
+    - family-names: Wang
+      given-names: Shuheng
+    - family-names: Ma
+      given-names: Xinyue
+    - family-names: Liu
+      given-names: Yifan
+    - family-names: Tao
+      given-names: Zhiyuan
+    - family-names: Zhang
+      given-names: Ziheng
+    - family-names: Sokol
+      given-names: Eric
+    - family-names: Belitz
+      given-names: Michael
+    - family-names: Record
+      given-names: Sydne
+    - family-names: Stewart
+      given-names: "Charles V."
+    - family-names: Chao
+      given-names: "Wei-Lun"
+  keywords:
+    - deep learning
+    - computer vision
+    - image processing
+    - object detection
+    - image segmentation
+    - entomology
+    - imageomics
+  collection-title: "NeurIPS 2025 Workshop for Imageomics: Discovering Biological Knowledge from Images Using AI"
+  year: 2025

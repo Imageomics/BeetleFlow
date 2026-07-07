@@ -8,7 +8,7 @@
 - [ ] Add installation guide
 
 ## 📊 Dataset
-Beetle part segmentation dataset is available [here](data/) (both 5-class and 9-class).
+Dataset for beetle part segmentation is available [here](data/) (both 5-class and 9-class).
 
 ## 🧑‍💻 Usage
 
@@ -46,6 +46,8 @@ Though the code in this repository is shared under an [MIT License](https://gith
 
 ## Acknowledgments
 
+This work was in part conceived at [Funcapalooza](https://github.com/Imageomics/FuncaPalooza-2025).
+
 This work uses data from the [Beetles as Sentinel Taxa: Predicting drought conditions from NEON specimen imagery dataset](https://huggingface.co/datasets/imageomics/sentinel-beetles). If you make use of the data, please be sure to cite the original source:
 
 BibTeX:
@@ -55,10 +57,10 @@ BibTeX:
     S M Rayeed and Fangxun Liu and David Carlyn and Connor Kilrain and Jiaman Wu and Chandra Earl and Hilmar Lapp 
     and Kayla I. Perry and Charles Stewart and Matthew J. Thompson and Elizabeth G. Campolongo and Wei-Lun Chao and
     Eric R. Sokol and Sydne Record},
-  title = {Beetles as Sentinel Taxa: Predicting drought conditions from {NEON} specimen imagery},
-  year = {2025},
+  title = {Beetles as Sentinel Taxa: Predicting drought conditions from {NEON} specimen imagery (Revision 5026be7)},
+  year = {2026},
   url = {https://huggingface.co/datasets/imageomics/sentinel-beetles},
-  doi = {<doi once generated>},
+  doi = {10.57967/hf/8716},
   publisher = {Hugging Face}
 }
 ```

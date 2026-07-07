@@ -1,0 +1,127 @@
+{
+  "creators": [
+    {
+      "name": "Liu, Fangxun",
+      "affiliation": "The Ohio State University",
+      "orcid": "0009-0008-8508-2776"
+    },
+    {
+      "name": "Rayeed, S M",
+      "affiliation": "Rensselaer Polytechnic Institute"
+    },
+    {
+      "name": "Stevens, Samuel",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "East, Alyson",
+      "affiliation": "The University of Maine"
+    },
+    {
+      "name": "Chiang, Cheng Hsuan",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Lee, Colin",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Yi, Daniel",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Yang, Junke",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Naik, Tejas",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Wang, Ziyi",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Kilrain, Connor",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Buckwalter, Elijah H.",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Hou, Jiacheng",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Bueno, Saul Ibaven",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Wang, Shuheng",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Ma, Xinyue",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Liu, Yifan",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Tao, Zhiyuan",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Zhang, Ziheng",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Sokol, Eric",
+      "affiliation": "National Ecological Observatory Network (NEON), Battelle"
+    },
+    {
+      "name": "Belitz, Michael",
+      "affiliation": "Michigan State University"
+    },
+    {
+      "name": "Record, Sydne",
+      "affiliation": "The University of Maine"
+    },
+    {
+      "name": "Stewart, Charles V.",
+      "affiliation": "Rensselaer Polytechnic Institute"
+    },
+    {
+      "name": "Chao, Wei-Lun",
+      "affiliation": "The Ohio State University"
+    }
+  ],
+  "description": "Pipeline for processing large-scale tray images of pinned beetles: detect specimens, optionally sort and crop with metadata matching, and produce fine-grained morphological segmentation (5-class or 9-class). It uses an open-vocabulary detector (Grounding DINO), a vision-language model (LLaVA-NeXT) for verification, and fine-tuned Mask2Former for transformer-based part segmentation and downstream morphological analysis.",
+  "keywords": [
+    "deep learning",
+    "computer vision",
+    "image processing",
+    "object detection",
+    "image segmentation",
+    "entomology",
+    "imageomics"
+  ],
+  "license": {
+    "id": "MIT"
+  },
+  "publication_date": "2026-07-07",
+  "title": "BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing",
+  "version": "1.0.0",
+  "grants": [
+    {
+      "id": "021nxhr62::2118240"
+    }
+  ],
+  "references": [
+    "East, A., Belitz, M., Cotton, L., Dominguez, J., Betancourt, I., Rayeed, S. M., Liu, F., Carlyn, D., Kilrain, C., Wu, J., Earl, C., Lapp, H., Perry, K. I., Stewart, C., Thompson, M. J., Campolongo, E. G., Chao, W.-L., Sokol, E. R., & Record, S. (2026). Beetles as Sentinel Taxa: Predicting drought conditions from NEON specimen imagery (Revision 5026be7). Hugging Face. https://doi.org/10.57967/hf/8716",
+    "National Ecological Observatory Network. (2025). Ground beetles sampled from pitfall traps (DP1.10022.001). https://doi.org/10.48443/CD21-Q875",
+    "National Ecological Observatory Network. (2025). NEON Field Site Metadata. Retrieved June 25, 2025, from https://www.neonscience.org/field-sites/exports/NEON_Field_Site_Metadata_20250625"
+  ]
+}
