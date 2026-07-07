@@ -13,7 +13,7 @@ type: software
 repository-code: "https://github.com/Imageomics/BeetleFlow"
 license: MIT
 
-date-released: 2026-07-06
+date-released: 2026-07-07
 version: 1.0.0
 identifiers:
   - description: "The GitHub release URL of tag 1.0.0."

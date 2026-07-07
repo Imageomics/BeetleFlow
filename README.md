@@ -4,12 +4,11 @@
 
 ## 🗓️ TODO
 - [ ] Update data source
-- [x] Provide checkpoint downloads
+- [ ] Provide checkpoint downloads
 - [ ] Add installation guide
 
-## 📊 Dataset and Checkpoints
+## 📊 Dataset
 Dataset for beetle part segmentation is available [here](data/) (both 5-class and 9-class).
-Mask2Former checkpoints for beetle part segmentation are available [here](https://drive.google.com/drive/folders/15lE8AhQGdYBXlfrnTZh1Xa-FIPoshAAU?usp=sharing) (both 5-class and 9-class).
 
 ## 🧑‍💻 Usage
 
