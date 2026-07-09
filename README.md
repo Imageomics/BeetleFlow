@@ -1,4 +1,4 @@
-# BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing
+# BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing [![DOI](https://zenodo.org/badge/1066041497.svg)](https://doi.org/10.5281/zenodo.21251293)
 
 ![main figure](assets/pipeline.png)
 
